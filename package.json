@@ -1,0 +1,17 @@
+{
+  "name": "ski-day",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.8.2",
+    "graphql": "^16.2.0",
+    "nodemon": "^2.0.16"
+  }
+}
